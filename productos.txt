@@ -1,0 +1,6 @@
+Zapatillas,25990
+Jeans,12990
+Polera,8990
+Gorro,5990
+Mochila,34990
+Poleron,20000
